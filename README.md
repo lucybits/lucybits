@@ -1,6 +1,6 @@
 
 # 💫 Acerca de mí
-👩‍💻✨ Frontend Developer & Designer<br>🎓📚 Estudiante de ISC en Instituto Tecnológico de Hermosillo.<br>🌸💖 +4 años explorando el mundo tech<br>🎀🎬 Me gusta la cultura pop y el anime<br>🌐✨ Siempre lista para aprender y colaborar
+👩‍💻✨ Frontend Developer & Designer<br>🎓📚 Estudiante de ISC en Instituto Tecnológico de Hermosillo.<br>🌸💖 +4 años explorando el mundo tech<br>🌐✨ Siempre lista para aprender y colaborar
 
 
 # 💻 Tech stack
