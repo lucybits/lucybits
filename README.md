@@ -43,3 +43,17 @@
 </div>
 
 ###
+
+### Resultado esperado  
+```javascript
+// lucybits.js
+const aboutMe = {
+  name: "Lucía",
+  role: "Estudiante y Frontend Developer",
+  studying: "ISC en TECNM Hermosillo",
+  hobbies: ["código", "diseño", "explorar cultura pop"],
+  funFact: "¡Mis stickers son lindos, pero a veces me confunden! 🙃"
+};
+
+console.log("¡Bienvenidos a mi GitHub!");
+
