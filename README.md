@@ -8,15 +8,18 @@
 
 <h2 align="left">Acerca de mí</h2>
 
-###
+### 
+```javascript
+// lucybits.js
+const aboutMe = {
+  name: "Lucía Casillas",
+  role: "Frontend and Designer Developer",
+  studying: "ISC en TECNM Hermosillo",
+  hobbies: ["código", "diseño", "kdramas"],
+  funFact: "Uso stickers en mis teclas, pero a veces no sé que tecla es cuál 🙃"
+};
 
-<p align="left">
-✨ Creando bugs desde 2022 (¡los llamo "features"!)<br>
-📚 Estoy aprendiendo Flutter, Dart, ChakraUI, y cómo sobrevivir con café.<br>
-🎯 Goals: Crear una app móvil y lanzar mi primer proyecto completo.<br>
-🎲 Fun fact: Mi teclado tiene stickers cutess, pero a veces olvido qué tecla es cuál. 🙃<br>
-</p>
-
+console.log("bienvenidos a mi GitHub!");
 
 ###
 
@@ -44,16 +47,5 @@
 
 ###
 
-### Resultado esperado  
-```javascript
-// lucybits.js
-const aboutMe = {
-  name: "Lucía",
-  role: "Estudiante y Frontend Developer",
-  studying: "ISC en TECNM Hermosillo",
-  hobbies: ["código", "diseño", "explorar cultura pop"],
-  funFact: "¡Mis stickers son lindos, pero a veces me confunden! 🙃"
-};
 
-console.log("¡Bienvenidos a mi GitHub!");
 
