@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Yo codeo con</h2>
+<h2 align="left">Tirando código con</h2>
 
 ###
 
