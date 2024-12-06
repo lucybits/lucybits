@@ -1,9 +1,4 @@
 <h1 align="left">Hola... 👋</h1>
-
-###
-
-<p align="left">Soy Lucía, estudiante de ISC en TECNM Hermosillo</p>
-
 ###
 
 <h2 align="left">Acerca de mí</h2>
