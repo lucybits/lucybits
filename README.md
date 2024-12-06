@@ -19,7 +19,9 @@ const aboutMe = {
   funFact: "Uso stickers en mis teclas, pero a veces no sé que tecla es cuál 🙃"
 };
 
+
 console.log("bienvenidos a mi GitHub!");
+```
 
 ###
 
