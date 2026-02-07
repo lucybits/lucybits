@@ -6,10 +6,9 @@
 ```javascript
 const aboutme = {
   name: "Lucía Casillas 🎀",
-  role: "Frontend and Designer Developer 🍄 ",
+  role: "Frontend and Designer Developer",
   studying: "ISC en TECNM Hermosillo",
-  hobbies: ["código", "diseño", "kdramas"],
-  funfact: "Uso stickers en mis teclas, pero a veces no sé que tecla es cuál 🙃"
+  funfact: "uso stickers en mis teclas, pero a veces no sé que tecla es cuál..."
 };
 
 
