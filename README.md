@@ -1,6 +1,6 @@
 <h1 align="left">haló!</h1>
 
-<h2 align="left">tirando código con</h2>
+<h2 align="left">tirando código con -></h2>
 
 ###
 
