@@ -1,19 +1,6 @@
 <h1 align="left">haló!</h1>
 
-<h2 align="left">Acerca de mí</h2>
-
-### 
-```javascript
-const aboutme = {
-  name: "Lucía Casillas 🎀",
-  role: "Frontend and Designer Developer",
-  studying: "ISC en TECNM Hermosillo",
-  funfact: "uso stickers en mis teclas, pero a veces no sé que tecla es cuál..."
-};
-
-
-console.log("bienvenidos a mi GitHub!!!");
-```
+///
 
 ###
 
